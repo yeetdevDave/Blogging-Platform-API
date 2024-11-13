@@ -19,7 +19,6 @@ You need to create a search index on the title, content and category fields in M
 
 # How to install ?
 
-Run
 ```
 git clone https://github.com/yeetdevDave/Blogging-Platform-API.git
 cd Blogging-Platform-API
