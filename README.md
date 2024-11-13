@@ -1,6 +1,6 @@
 # Blogging Platform API
 
-Blogging Platform API is a project to create a simple RESTful API with basic CRUD operations for a personal blogging platform.
+Blogging Platform API is a [project](https://roadmap.sh/projects/blogging-platform-api) to create a simple RESTful API with basic CRUD operations for a personal blogging platform.
 
 # How does it work ?
 
