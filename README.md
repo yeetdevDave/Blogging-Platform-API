@@ -22,6 +22,7 @@ You need to create a search index on the title, content and category fields in M
 ```
 git clone https://github.com/yeetdevDave/Blogging-Platform-API.git
 cd Blogging-Platform-API
+npm install
 ```
 
 # How to run ?
